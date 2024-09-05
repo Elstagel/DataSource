@@ -22,6 +22,7 @@
                 <MenuItem Header="_Red" InputGestureText="Ctrl+R" Command="{Binding RedCommand}"/>
                 <MenuItem Header="_Green" InputGestureText="Ctrl+G" Command="{Binding GreenCommand}"/>
                 <MenuItem Header="_Blue" InputGestureText="Ctrl+B" Command="{Binding BlueCommand}"/>
+                <MenuItem Header="_Yellow" InputGestureText="Ctrl+Y" Command="{Binding YellowCommand}"/>
             </MenuItem>
         </Menu>
         <Grid Margin="5">

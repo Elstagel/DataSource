@@ -14,6 +14,7 @@ namespace DataSourse
 		private readonly Command greenCommand;
 		private readonly Command blueCommand;
 		private readonly Command yellowCommand;
+
 		private string selectedColor = "Black";
 
 		public DataSource()
